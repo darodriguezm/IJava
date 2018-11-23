@@ -66,4 +66,5 @@ Under Apache 2.0 license. See [LICENSE](LICENSE).
 
 ## Authors
 
-- Hadrien Mary <hadrien.mary@gmail.com>
+Copied from https://github.com/scijava/scijava-jupyter-kernel repository,
+created by Hadrien Mary <hadrien.mary@gmail.com>
