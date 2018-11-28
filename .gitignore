@@ -1,4 +1,6 @@
-.gradle/
-.idea/
-build/
-out/
+# Intellij
+
+*.iml
+.idea
+
+.ipynb_checkpoints/
