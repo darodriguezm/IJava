@@ -1,0 +1,3 @@
+set CLASSPATH=.;
+set JAVA_HOME=C:\Program Files\Java\jdk1.7.0_121
+set Path=%Path%;%JAVA_HOME%\bin
